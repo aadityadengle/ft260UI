@@ -2,7 +2,7 @@ import PySimpleGUI as sg
 import logging
 
 from ft_function import *
-from ft import findDeviceInPaths
+from ft import find_Device_In_Paths
 from threading import Thread
 import time
 import signal
